@@ -1,0 +1,8 @@
+title: "Barry Cheng — Portfolio"
+description: "Selected musical and technical work."
+# Use a built-in GitHub Pages Jekyll theme:
+theme: jekyll-theme-minimal
+
+# Optional: basic site metadata
+author: "Barry Cheng"
+github_username: barry-mir
