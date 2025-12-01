@@ -24,7 +24,7 @@ I founded **Diving Raccoon**, an instrumental math-rock / progressive-rock band 
 
 #### (a) *Connie’s Forest* — Single (2023)
 
-- **Link:** https://music.youtube.com/watch?v=ePmPhZQ6ac0  
+- **Link:** [https://music.youtube.com/watch?v=ePmPhZQ6ac0](https://music.youtube.com/watch?v=ePmPhZQ6ac0)  
 - **My contribution:**
   - Composed guitar parts and main structure  
   - Performed electric guitar and contributed to arrangement/production  
@@ -32,7 +32,7 @@ I founded **Diving Raccoon**, an instrumental math-rock / progressive-rock band 
 
 #### (b) *Arctica* — EP (2024)
 
-- **Link:** https://music.youtube.com/playlist?list=OLAK5uy_kwGbhyMvgb_N0VXnKn-NSCVKg9AeFaT6Y  
+- **Link:** [https://music.youtube.com/playlist?list=OLAK5uy_kwGbhyMvgb_N0VXnKn-NSCVKg9AeFaT6Y](https://music.youtube.com/playlist?list=OLAK5uy_kwGbhyMvgb_N0VXnKn-NSCVKg9AeFaT6Y)  
 - **My contribution:**
   - Conceptualized the EP around the ancient polar continent “Arctica”  
   - Composed guitar parts and main structure  
@@ -45,7 +45,7 @@ I founded **Diving Raccoon**, an instrumental math-rock / progressive-rock band 
 
 ### 2. Zero-Shot Amplifier Modeling (2024)
 
-**Demo video:** https://www.youtube.com/watch?v=IVN9JTTxZkk  
+**Demo video:** [https://www.youtube.com/watch?v=IVN9JTTxZkk](https://www.youtube.com/watch?v=IVN9JTTxZkk)  
 
 A research and engineering project I developed in Positive Grid, focused on modeling **unseen guitar amplifiers** using only a brief **reference audio clip**, enabling instant tone capture without per-amp training.
 
