@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Barry Cheng — Portfolio"
+---
+
 # Barry Cheng — Portfolio
 
 Welcome! I’m **Barry Cheng** from Taiwan, an electric guitarist with 15+ years of playing experience and over 5 years of machine learning research experience in the music industry. My work sits at the intersection of **music performance**, **composition**, and **music AI research**, with a particular focus on guitar tone, expressive performance, and musician-centric tools.
