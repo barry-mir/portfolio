@@ -339,6 +339,45 @@ a:hover { color: var(--accent); }
   color: var(--ink-muted);
 }
 
+/* ---------- Subsection ---------- */
+.subsection-title {
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: var(--ink-muted);
+  margin: 0 0 0.65rem;
+}
+.subsection-title + .timeline,
+.subsection-title + .reviewer-list { margin-bottom: 1.25rem; }
+
+/* ---------- Reviewer list ---------- */
+.reviewer-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.4rem;
+}
+.reviewer-list li {
+  padding: 0.55rem 1rem;
+  border-left: 2px solid var(--line);
+}
+.reviewer-list li:first-child { border-left-color: var(--accent); }
+.reviewer-venue {
+  margin: 0;
+  font-weight: 600;
+  font-size: 0.96rem;
+  color: var(--ink);
+}
+.reviewer-role {
+  margin: 0.05rem 0 0;
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+}
+.reviewer-role .when { color: var(--ink-muted); font-size: 0.85rem; }
+
 /* ---------- Timeline ---------- */
 .timeline {
   list-style: none;
@@ -354,9 +393,11 @@ a:hover { color: var(--accent); }
   border-radius: var(--radius);
   padding: 1rem 1.2rem;
 }
-.role-head h3 {
+.role-head h3,
+.role-head h4 {
   margin: 0 0 0.1rem;
   font-size: 1.05rem;
+  font-weight: 600;
 }
 .role-head .company {
   margin: 0;
