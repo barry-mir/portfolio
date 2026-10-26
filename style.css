@@ -251,6 +251,15 @@ a:hover { color: var(--accent); }
   padding: 0;
   display: grid;
   gap: 0.55rem;
+  max-height: 26rem;
+  overflow-y: auto;
+  padding-right: 0.4rem;
+  scrollbar-width: thin;
+  scrollbar-color: var(--line) transparent;
+}
+.news-list:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 4px;
 }
 .news-item {
   display: grid;
